@@ -7,7 +7,7 @@ order: 4
 ---
 
 # **Education**
-### MSc Neuroscience in Neurodegeneration | King’s College London, United Kingdom (2022-2023)**
+### MSc Neuroscience in Neurodegeneration | King’s College London, United Kingdom (2022-2023)
 * _Thesis: Modelling juvenile-onset ALS in human cells with splice switching snRNA and genome editing approaches_
 * _Supervised by: [Prof. Marc-David Ruepp](https://www.kcl.ac.uk/people/marc-david-ruepp)_
 * _Grade: 2:1 (EQF Level 7)_
