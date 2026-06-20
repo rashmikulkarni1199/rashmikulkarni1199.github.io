@@ -6,18 +6,21 @@ icon: fas fa-file-alt
 order: 4
 ---
 
-# **Education**
+## **Education**
 **MSc Neuroscience in Neurodegeneration | King’s College London, United Kingdom (2022-2023)**
+
 * _Thesis: Modelling juvenile-onset ALS in human cells with splice switching snRNA and genome editing approaches_
 * _Supervised by: [Prof. Marc-David Ruepp](https://www.kcl.ac.uk/people/marc-david-ruepp)_
 * _Grade: 2:1 (EQF Level 7)_
-<br>
+
 **BSc Chemistry | University of Mumbai, India (2018-2021)**
+
 * _Thesis: Investigating the Genetic Basis of Alzheimer's Disease_
 * _Grade: 8.21 (EQF Level 6)_
 
-# **Work Experience**
+## **Work Experience**
 **Research Assistant | National Institute for Mental Health and Neurosciences (NIMHANS), India | Mar 2026 - Present**
+
 * _**Supervised by: Prof. Suvarna Ali (Dept. of Neurology)**_
 * _Analysing whole-exome sequencing reports from Indian neurodegenerative disease cases, focusing on PRNP
 and MAPT variants._
@@ -26,7 +29,7 @@ and MAPT variants._
 * _Currently conducting similar variant interpretation and literature synthesis for MAPT-associated neurodegenerative disease._
 * _**Skills:** WES report interpretation, genotype–phenotype correlation, clinical data analysis._
 * _**Software:** Pymol, ColabFold v1.6.1_
-<br>
+
 **Research Assistant | Queen Mary University of London, United Kingdom | Jul 2024 - Mar 2025**
 * _**Supervised by: Prof. Pradeed Madapura (Blizard Institute)**_
 * _Studied transposable element reactivation in preeclamptic placentas using cryosectioning, immunohistochemistry, confocal microscopy, and colocalization analysis._
@@ -36,7 +39,7 @@ currently under review._
 * _Skills: Cryosectioning, immunohistochemistry, confocal microscopy, colocalization analysis, dTAG systems, CUT&TAG, CUT&RUN._
 * _**Cell culture:** Mouse embryonic stem cell culture._
 * _**Software:** Zen, Imaris, ImageJ._
-<br>
+
 **Postgraduate Researcher | King's College London, United Kingdom | Mar 2023 - Aug 2023**
 * _**Supervised by: Prof. Marc-David Ruepp (Maurice Wohl Clinical Neuroscience Institute)**_
 * _Contributed to the development of a novel "Double CRISPR-Trap" method to generate CRISPR knock-in cell lines with juvenile ALS-associated frameshift mutations._
@@ -46,11 +49,11 @@ currently under review._
 * _**Cell culture:** HeLa and HEK293T cell culture, passaging, transfection, colony selection._
 * _**Software:** Benchling, ImageJ._
 
-# **Teaching Experience**
+## **Teaching Experience**
 **Teaching Assistant | King's College London | Feb 2024 - June 2024**
 * _Neurodegeneration Specialisation, Institute of Psychology, Psychiatry and Neuroscience (IoPPN)_  
 * _Supervised by: Dr. Sandrine Thuret_
-<br>
+
 **Teaching Assistant | King's College London | Sep 2023 - Feb 2024**
 * _MSc. Neuroscience, Institute of Psychology, Psychiatry and Neuroscience (IoPPN)_
 * _Supervised by: Dr. Eamonn Walsh_
