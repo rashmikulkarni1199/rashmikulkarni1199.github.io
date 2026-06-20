@@ -8,19 +8,18 @@ order: 4
 
 ## **Education**
 **MSc Neuroscience | King’s College London, United Kingdom (2022-2023)**
-
 * _Thesis: Modelling juvenile-onset ALS in human cells with splice switching snRNA and genome editing approaches_
 * _Supervised by: [Prof. Marc-David Ruepp](https://www.kcl.ac.uk/people/marc-david-ruepp)_
 * _Grade: 2:1 (EQF Level 7)_
 
-**BSc Biochemistry | University of Mumbai, India (2018-2021)**
+&nbsp;
 
+**BSc Biochemistry | University of Mumbai, India (2018-2021)**
 * _Thesis: Investigating the Genetic Basis of Alzheimer's Disease_
 * _Grade: 8.21 (EQF Level 6)_
 
 ## **Work Experience**
 **Research Assistant | National Institute for Mental Health and Neurosciences (NIMHANS), India | Mar 2026 - Present**
-
 * _**Supervised by: Prof. Suvarna Ali (Dept. of Neurology)**_
 * _Analysing whole-exome sequencing reports from Indian neurodegenerative disease cases, focusing on PRNP
 and MAPT variants._
