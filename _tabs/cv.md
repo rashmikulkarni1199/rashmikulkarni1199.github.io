@@ -18,7 +18,9 @@ order: 4
 
 # **Work Experience**
 ### Research Assistant | National Institute for Mental Health and Neurosciences (NIMHANS), India | Mar 2026 - Present
+
 _**Supervised by: Prof. Suvarna Ali (Dept. of Neurology)**_
+
 * _Analysing whole-exome sequencing reports from Indian neurodegenerative disease cases, focusing on PRNP
 and MAPT variants._
 * _Extracted and interpreted PRNP variants from eight suspected genetic prion disease cases, applying ACMG/ AMP guidelines for variant classification._
