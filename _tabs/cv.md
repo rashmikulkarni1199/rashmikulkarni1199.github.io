@@ -9,7 +9,7 @@ order: 4
 # **Education**
 **MSc Neuroscience | King’s College London, United Kingdom (2022-2023)**
 * _NatBrainLab, Institute of Psychology, Psychiatry and Neuroscience (IoPPN)_
-* _Supervised by: [Prof. Marc-David Ruepp]([https://scholar.google.com/citations?user=kOpyRqgAAAAJ&hl=en](https://www.kcl.ac.uk/people/marc-david-ruepp))_
+* _Supervised by: [Prof. Marc-David Ruepp](https://www.kcl.ac.uk/people/marc-david-ruepp)_
 
 **BSc Chemistry | University of Mumbai, India (2019-2022)**
 * _Grade_
