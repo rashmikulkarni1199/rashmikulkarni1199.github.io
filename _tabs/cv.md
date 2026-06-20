@@ -58,8 +58,9 @@ currently under review._
 * _Neurodegeneration Specialisation, Institute of Psychology, Psychiatry and Neuroscience (IoPPN)_  
 * _Supervised by: Dr. Sandrine Thuret_
 
-**Teaching Assistant | King's College London | Sep 2023 - Feb 2024**
+&nbsp;
 
+**Teaching Assistant | King's College London | Sep 2023 - Feb 2024**
 * _MSc. Neuroscience, Institute of Psychology, Psychiatry and Neuroscience (IoPPN)_
 * _Supervised by: Dr. Eamonn Walsh_
 
