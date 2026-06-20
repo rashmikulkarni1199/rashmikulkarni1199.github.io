@@ -23,13 +23,13 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://rashmikulkarni1199.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: rashmikulkarni1199 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,8 +39,8 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # - https://twitter.com/username # change to your Twitter homepage
+    # - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D4D03AQHJtg1tfk5C_Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706876541591?e=1783555200&v=beta&t=FzwAJPpnWVz3w_JAhoR6fCpC_du3eOYq5Z6IIuv8img
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
