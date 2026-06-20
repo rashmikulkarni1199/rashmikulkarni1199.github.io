@@ -13,7 +13,7 @@ order: 4
 * _Supervised by: [Prof. Marc-David Ruepp](https://www.kcl.ac.uk/people/marc-david-ruepp)_
 * _Grade: 2:1 (EQF Level 7)_
 
-<p class="mt-4 mb-1"><strong>BSc Chemistry | University of Mumbai, India (2018-2021)</strong></p>
+**BSc Biochemistry | University of Mumbai, India (2018-2021)**
 
 * _Thesis: Investigating the Genetic Basis of Alzheimer's Disease_
 * _Grade: 8.21 (EQF Level 6)_
