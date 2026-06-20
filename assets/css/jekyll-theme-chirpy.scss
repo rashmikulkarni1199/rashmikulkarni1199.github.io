@@ -1,0 +1,34 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* Keep sidebar name on one line */
+
+#sidebar .site-title,
+#sidebar .site-title a {
+  white-space: nowrap;
+  font-size: 1.5rem;
+  letter-spacing: -0.02em;
+}
+
+#sidebar .site-subtitle {
+  font-size: 0.9rem;
+  line-height: 1.2;
+}
+
+.about-intro {
+  font-size: 1.35rem;
+  font-weight: 650;
+  line-height: 1.45;
+  margin-bottom: 1.5rem;
+}
+
+.about-intro a {
+  font-weight: 650;
+}
