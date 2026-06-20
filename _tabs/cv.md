@@ -13,6 +13,8 @@ order: 4
 * _Supervised by: [Prof. Marc-David Ruepp](https://www.kcl.ac.uk/people/marc-david-ruepp)_
 * _Grade: 2:1 (EQF Level 7)_
 
+&nbsp;
+
 **BSc Chemistry | University of Mumbai, India (2018-2021)**
 
 * _Thesis: Investigating the Genetic Basis of Alzheimer's Disease_
@@ -30,6 +32,8 @@ and MAPT variants._
 * _**Skills:** WES report interpretation, genotype–phenotype correlation, clinical data analysis._
 * _**Software:** Pymol, ColabFold v1.6.1_
 
+&nbsp;
+
 **Research Assistant | Queen Mary University of London, United Kingdom | Jul 2024 - Mar 2025**
 * _**Supervised by: Prof. Pradeed Madapura (Blizard Institute)**_
 * _Studied transposable element reactivation in preeclamptic placentas using cryosectioning, immunohistochemistry, confocal microscopy, and colocalization analysis._
@@ -39,6 +43,8 @@ currently under review._
 * _Skills: Cryosectioning, immunohistochemistry, confocal microscopy, colocalization analysis, dTAG systems, CUT&TAG, CUT&RUN._
 * _**Cell culture:** Mouse embryonic stem cell culture._
 * _**Software:** Zen, Imaris, ImageJ._
+
+&nbsp;
 
 **Postgraduate Researcher | King's College London, United Kingdom | Mar 2023 - Aug 2023**
 * _**Supervised by: Prof. Marc-David Ruepp (Maurice Wohl Clinical Neuroscience Institute)**_
@@ -53,6 +59,8 @@ currently under review._
 **Teaching Assistant | King's College London | Feb 2024 - June 2024**
 * _Neurodegeneration Specialisation, Institute of Psychology, Psychiatry and Neuroscience (IoPPN)_  
 * _Supervised by: Dr. Sandrine Thuret_
+
+&nbsp;
 
 **Teaching Assistant | King's College London | Sep 2023 - Feb 2024**
 * _MSc. Neuroscience, Institute of Psychology, Psychiatry and Neuroscience (IoPPN)_
